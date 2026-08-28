@@ -89,6 +89,8 @@ This project shows ...
 
 ## Technical Achievements
 - **Styled page with CSS**: Added rules for the p, li, and a selectors...
+- **Experimented with other *semantic* HTML tags**: Added 
 
 ## Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Color Palette**: I used Adobe Color and Pinterest to help create and come up with my color palette. I used all five colors throughout my website.
+- **Used the Miranda Sans Font from Google Fonts**: I used Miranda Sans as the font for the primary copy text in my website.
