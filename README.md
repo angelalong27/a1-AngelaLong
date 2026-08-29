@@ -1,9 +1,8 @@
 Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Render
 ===
 
-*DUE: Friday, August28, 2025 by 1:59 PM*
-
 Angela Long
+https://a1-angelalong.onrender.com
 
 This project shows
 
