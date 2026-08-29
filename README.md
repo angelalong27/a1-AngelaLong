@@ -2,7 +2,6 @@ Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Render
 ===
 
 Angela Long
-
 https://a1-angelalong.onrender.com
 
 This project shows
